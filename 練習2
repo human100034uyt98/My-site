@@ -1,1 +1,22 @@
+<!DOCTYPE html>
+<html lang="jp">
+<head>
+  <meta charset="UTF-8">
+  <title>練習2</titile>
+  <link rel="stylesheet" hred="style.css">
+</head>
 
+<body>
+
+  <h1>HTMLとCSSの勉強</h1>
+
+  <p class="text">
+     これはHTMLとCSSで作ったテストページです。
+  </P>
+
+  <button id="btn">
+     クリックしてね
+  </button>
+
+</body>
+</hml>
